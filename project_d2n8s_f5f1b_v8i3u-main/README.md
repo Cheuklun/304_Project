@@ -1,0 +1,3 @@
+# CPSC 304 - Group Number 80
+
+Our project is based in the Property Management domain, which focuses on overseeing, maintaining, and managing real estate properties, including residential and commercial units. The database models key aspects such as property details, tenant and ownership management, financial transactions, lease tracking, and maintenance coordination. Users, primarily property managers, can store and track lease agreements, monitor rental income and expenses, submit and follow maintenance requests, and generate reports for owners and stakeholders. We based it on our knowledge of the operations of local firms such as Orca Realty and Bodewell which are known for their efficient management of property portfolios.
